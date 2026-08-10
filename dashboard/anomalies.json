@@ -1,0 +1,2410 @@
+{
+    "Cortes, Nestor (2024-08-08)": {
+        "name": "Cortes, Nestor",
+        "date": "2024-08-08",
+        "peakVelo": "86.4 mph",
+        "peakDI": "100.0",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "LAA 2 - NYY 1",
+        "score_after": "LAA 4 - NYY 1",
+        "data": [
+            {
+                "pitch": 47,
+                "velo": 90.1,
+                "di": 29.445669014703213,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 87.0,
+                "di": 29.50075928272517,
+                "desc": "Anthony Rendon called out on strikes."
+            },
+            {
+                "pitch": 49,
+                "velo": 83.1,
+                "di": 4.270304227135668,
+                "desc": ""
+            },
+            {
+                "pitch": 50,
+                "velo": 77.7,
+                "di": 4.256820285901668,
+                "desc": ""
+            },
+            {
+                "pitch": 51,
+                "velo": 84.4,
+                "di": 2.800623379239596,
+                "desc": ""
+            },
+            {
+                "pitch": 52,
+                "velo": 92.5,
+                "di": 1.5637591162178097,
+                "desc": "Jo Adell singles on a sharp line drive to right fielder Juan Soto."
+            },
+            {
+                "pitch": 53,
+                "velo": 92.6,
+                "di": 1.3376112830753186,
+                "desc": ""
+            },
+            {
+                "pitch": 54,
+                "velo": 84.4,
+                "di": 1.6256923994741612,
+                "desc": "Brandon Drury grounds into a double play, second baseman Gleyber Torres to first baseman DJ LeMahieu. Jo Adell out at 2nd. Brandon Drury out at 1st."
+            },
+            {
+                "pitch": 55,
+                "velo": 79.0,
+                "di": 3.9068256319456367,
+                "desc": ""
+            },
+            {
+                "pitch": 56,
+                "velo": 86.9,
+                "di": 7.503861768165336,
+                "desc": "Mickey Moniak lines out to center fielder Aaron Judge."
+            },
+            {
+                "pitch": 57,
+                "velo": 92.8,
+                "di": 55.185880941709385,
+                "desc": ""
+            },
+            {
+                "pitch": 58,
+                "velo": 91.7,
+                "di": 53.032837831792804,
+                "desc": ""
+            },
+            {
+                "pitch": 59,
+                "velo": 88.2,
+                "di": 54.80235457161619,
+                "desc": ""
+            },
+            {
+                "pitch": 60,
+                "velo": 91.3,
+                "di": 62.484379790151806,
+                "desc": ""
+            },
+            {
+                "pitch": 61,
+                "velo": 91.9,
+                "di": 61.512970689467906,
+                "desc": ""
+            },
+            {
+                "pitch": 62,
+                "velo": 88.3,
+                "di": 58.752121963616716,
+                "desc": ""
+            },
+            {
+                "pitch": 63,
+                "velo": 93.3,
+                "di": 56.888824238148274,
+                "desc": ""
+            },
+            {
+                "pitch": 64,
+                "velo": 88.1,
+                "di": 55.295116536341354,
+                "desc": ""
+            },
+            {
+                "pitch": 65,
+                "velo": 86.6,
+                "di": 64.87539686645441,
+                "desc": ""
+            },
+            {
+                "pitch": 66,
+                "velo": 83.9,
+                "di": 58.145465823941706,
+                "desc": "Michael Stefanic singles on a line drive to left fielder Alex Verdugo."
+            },
+            {
+                "pitch": 67,
+                "velo": 88.6,
+                "di": 24.166851679635613,
+                "desc": ""
+            },
+            {
+                "pitch": 68,
+                "velo": 93.6,
+                "di": 28.03337551209738,
+                "desc": ""
+            },
+            {
+                "pitch": 69,
+                "velo": 92.0,
+                "di": 17.28774206267559,
+                "desc": ""
+            },
+            {
+                "pitch": 70,
+                "velo": 89.8,
+                "di": 16.220930381535013,
+                "desc": ""
+            },
+            {
+                "pitch": 71,
+                "velo": 91.2,
+                "di": 91.55212116367828,
+                "desc": ""
+            },
+            {
+                "pitch": 72,
+                "velo": 91.2,
+                "di": 91.21029991102272,
+                "desc": ""
+            },
+            {
+                "pitch": 73,
+                "velo": 90.0,
+                "di": 92.02379270975736,
+                "desc": ""
+            },
+            {
+                "pitch": 74,
+                "velo": 90.1,
+                "di": 91.55212116367828,
+                "desc": "Nolan Schanuel lines out to right fielder Juan Soto."
+            },
+            {
+                "pitch": 75,
+                "velo": 94.2,
+                "di": 92.02379270975736,
+                "desc": ""
+            },
+            {
+                "pitch": 76,
+                "velo": 93.1,
+                "di": 92.11693545780527,
+                "desc": "Zach Neto doubles (25) on a ground ball to left fielder Alex Verdugo. Michael Stefanic to 3rd."
+            },
+            {
+                "pitch": 77,
+                "velo": 86.4,
+                "di": 100.00000000000001,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 78,
+                "velo": 86.1,
+                "di": 98.03180245394942,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 79,
+                "velo": 93.8,
+                "di": 98.79152904996029,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 80,
+                "velo": 93.6,
+                "di": 97.19127109962112,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 81,
+                "velo": 91.3,
+                "di": 42.65683511803134,
+                "desc": ""
+            },
+            {
+                "pitch": 82,
+                "velo": 90.6,
+                "di": 66.16894105088652,
+                "desc": ""
+            },
+            {
+                "pitch": 83,
+                "velo": 89.7,
+                "di": 58.236533072854954,
+                "desc": "Logan O'Hoppe walks."
+            },
+            {
+                "pitch": 84,
+                "velo": 94.5,
+                "di": 61.10793389160632,
+                "desc": ""
+            },
+            {
+                "pitch": 85,
+                "velo": 85.8,
+                "di": 63.66356981283418,
+                "desc": ""
+            },
+            {
+                "pitch": 86,
+                "velo": 92.3,
+                "di": 63.975217112867526,
+                "desc": "Kevin Pillar singles on a line drive to right fielder Juan Soto. Michael Stefanic scores. Zach Neto scores. Logan O'Hoppe to 2nd."
+            }
+        ],
+        "breakdown_baseline": "5.53 ft",
+        "breakdown_fatigued": "5.44 ft"
+    },
+    "Quantrill, Cal (2025-06-17)": {
+        "name": "Quantrill, Cal",
+        "date": "2025-06-17",
+        "peakVelo": "95.1 mph",
+        "peakDI": "98.8",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "PHI 1 - MIA 2",
+        "score_after": "PHI 2 - MIA 2",
+        "data": [
+            {
+                "pitch": 26,
+                "velo": 79.6,
+                "di": 37.10997125089034,
+                "desc": ""
+            },
+            {
+                "pitch": 27,
+                "velo": 90.6,
+                "di": 23.839282860340887,
+                "desc": "Brandon Marsh grounds out, shortstop Otto Lopez to first baseman Eric Wagaman."
+            },
+            {
+                "pitch": 28,
+                "velo": 81.7,
+                "di": 12.865979870235265,
+                "desc": ""
+            },
+            {
+                "pitch": 29,
+                "velo": 85.1,
+                "di": 6.528841988946766,
+                "desc": "Johan Rojas flies out to left fielder Heriberto Hern\u00e1ndez."
+            },
+            {
+                "pitch": 30,
+                "velo": 91.0,
+                "di": 81.78288835720132,
+                "desc": ""
+            },
+            {
+                "pitch": 31,
+                "velo": 83.0,
+                "di": 98.2847020495965,
+                "desc": "Trea Turner homers (9) on a fly ball to left field.",
+                "alert": true
+            },
+            {
+                "pitch": 32,
+                "velo": 93.2,
+                "di": 97.27515373008153,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 33,
+                "velo": 85.3,
+                "di": 98.45349200055851,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 34,
+                "velo": 94.3,
+                "di": 98.2847020495965,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 35,
+                "velo": 86.0,
+                "di": 98.2847020495965,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 36,
+                "velo": 80.9,
+                "di": 98.2847020495965,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 37,
+                "velo": 95.1,
+                "di": 98.79152904996029,
+                "desc": "Kyle Schwarber flies out sharply to center fielder Javier Sanoja.",
+                "alert": true
+            },
+            {
+                "pitch": 38,
+                "velo": 88.9,
+                "di": 96.77242501668637,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 39,
+                "velo": 95.3,
+                "di": 96.85611868084742,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 40,
+                "velo": 82.0,
+                "di": 95.93756138732864,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 41,
+                "velo": 94.5,
+                "di": 2.349144148910682,
+                "desc": ""
+            },
+            {
+                "pitch": 42,
+                "velo": 95.0,
+                "di": 3.421375152393125,
+                "desc": ""
+            },
+            {
+                "pitch": 43,
+                "velo": 89.7,
+                "di": 3.8227909983092445,
+                "desc": "Alec Bohm singles on a sharp line drive to right fielder Kyle Stowers."
+            },
+            {
+                "pitch": 44,
+                "velo": 94.0,
+                "di": 12.655535413194528,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 94.4,
+                "di": 16.83148444546495,
+                "desc": ""
+            },
+            {
+                "pitch": 46,
+                "velo": 93.2,
+                "di": 16.137570257678973,
+                "desc": ""
+            },
+            {
+                "pitch": 47,
+                "velo": 90.1,
+                "di": 18.627350359042296,
+                "desc": "Max Kepler singles on a line drive to right fielder Kyle Stowers. Alec Bohm to 2nd."
+            },
+            {
+                "pitch": 48,
+                "velo": 95.4,
+                "di": 14.293497906927627,
+                "desc": ""
+            },
+            {
+                "pitch": 49,
+                "velo": 94.9,
+                "di": 13.051491660801886,
+                "desc": ""
+            },
+            {
+                "pitch": 50,
+                "velo": 86.7,
+                "di": 11.724023111668075,
+                "desc": ""
+            },
+            {
+                "pitch": 51,
+                "velo": 94.1,
+                "di": 10.99848601168452,
+                "desc": ""
+            },
+            {
+                "pitch": 52,
+                "velo": 85.7,
+                "di": 13.328714785777933,
+                "desc": ""
+            },
+            {
+                "pitch": 53,
+                "velo": 94.8,
+                "di": 5.35253254768142,
+                "desc": "J.T. Realmuto strikes out swinging."
+            },
+            {
+                "pitch": 54,
+                "velo": 94.3,
+                "di": 10.896476109003586,
+                "desc": ""
+            },
+            {
+                "pitch": 55,
+                "velo": 84.9,
+                "di": 15.773261076392885,
+                "desc": ""
+            },
+            {
+                "pitch": 56,
+                "velo": 88.1,
+                "di": 20.693438455978935,
+                "desc": ""
+            },
+            {
+                "pitch": 57,
+                "velo": 94.7,
+                "di": 19.77354822727169,
+                "desc": ""
+            },
+            {
+                "pitch": 58,
+                "velo": 86.5,
+                "di": 19.83098508595191,
+                "desc": ""
+            },
+            {
+                "pitch": 59,
+                "velo": 95.1,
+                "di": 17.556687534156353,
+                "desc": "Bryson Stott grounds out to first baseman Eric Wagaman."
+            },
+            {
+                "pitch": 60,
+                "velo": 85.5,
+                "di": 6.175563980002366,
+                "desc": "Otto Kemp hit by pitch."
+            },
+            {
+                "pitch": 61,
+                "velo": 93.9,
+                "di": 6.884800030806716,
+                "desc": ""
+            },
+            {
+                "pitch": 62,
+                "velo": 93.4,
+                "di": 6.881676619308038,
+                "desc": ""
+            },
+            {
+                "pitch": 63,
+                "velo": 93.5,
+                "di": 18.38668333918946,
+                "desc": ""
+            },
+            {
+                "pitch": 64,
+                "velo": 94.1,
+                "di": 18.24936015958528,
+                "desc": ""
+            },
+            {
+                "pitch": 65,
+                "velo": 91.1,
+                "di": 15.26524763776321,
+                "desc": "Brandon Marsh doubles (8) on a sharp fly ball to center fielder Javier Sanoja. Otto Kemp to 3rd."
+            }
+        ],
+        "breakdown_baseline": "6.20 ft",
+        "breakdown_fatigued": "6.16 ft"
+    },
+    "Kershaw, Clayton (2025-07-20)": {
+        "name": "Kershaw, Clayton",
+        "date": "2025-07-20",
+        "peakVelo": "82.9 mph",
+        "peakDI": "97.6",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "MIL 3 - LAD 3",
+        "score_after": "MIL 3 - LAD 3",
+        "data": [
+            {
+                "pitch": 33,
+                "velo": 89.3,
+                "di": 11.526649209830154,
+                "desc": "William Contreras flies out to right fielder Teoscar Hern\u00e1ndez."
+            },
+            {
+                "pitch": 34,
+                "velo": 88.2,
+                "di": 4.265603780675477,
+                "desc": ""
+            },
+            {
+                "pitch": 35,
+                "velo": 88.8,
+                "di": 16.57876976417586,
+                "desc": ""
+            },
+            {
+                "pitch": 36,
+                "velo": 71.2,
+                "di": 14.505924340545093,
+                "desc": ""
+            },
+            {
+                "pitch": 37,
+                "velo": 85.8,
+                "di": 9.11615672308038,
+                "desc": ""
+            },
+            {
+                "pitch": 38,
+                "velo": 88.9,
+                "di": 14.921912694028649,
+                "desc": "Andrew Vaughn walks."
+            },
+            {
+                "pitch": 39,
+                "velo": 85.1,
+                "di": 15.764221810155618,
+                "desc": ""
+            },
+            {
+                "pitch": 40,
+                "velo": 89.7,
+                "di": 16.311669319786844,
+                "desc": ""
+            },
+            {
+                "pitch": 41,
+                "velo": 86.9,
+                "di": 11.716531836008883,
+                "desc": ""
+            },
+            {
+                "pitch": 42,
+                "velo": 85.9,
+                "di": 8.74857536842056,
+                "desc": "Isaac Collins grounds out softly to first baseman Freddie Freeman. Andrew Vaughn to 2nd."
+            },
+            {
+                "pitch": 43,
+                "velo": 89.7,
+                "di": 8.776057667020694,
+                "desc": "Caleb Durbin flies out to center fielder Andy Pages."
+            },
+            {
+                "pitch": 44,
+                "velo": 71.8,
+                "di": 8.74946574059841,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 84.9,
+                "di": 18.397440224437574,
+                "desc": ""
+            },
+            {
+                "pitch": 46,
+                "velo": 89.9,
+                "di": 25.757172127674806,
+                "desc": ""
+            },
+            {
+                "pitch": 47,
+                "velo": 87.0,
+                "di": 29.00663830937735,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 72.0,
+                "di": 25.355041366753795,
+                "desc": "Blake Perkins singles on a ground ball to third baseman Tommy Edman. Andrew Vaughn scores. Blake Perkins to 2nd. Throwing error by third baseman Tommy Edman."
+            },
+            {
+                "pitch": 49,
+                "velo": 90.1,
+                "di": 22.325110527377433,
+                "desc": ""
+            },
+            {
+                "pitch": 50,
+                "velo": 83.1,
+                "di": 8.696037452449573,
+                "desc": ""
+            },
+            {
+                "pitch": 51,
+                "velo": 72.1,
+                "di": 10.11506434606649,
+                "desc": ""
+            },
+            {
+                "pitch": 52,
+                "velo": 89.8,
+                "di": 7.875734457580307,
+                "desc": ""
+            },
+            {
+                "pitch": 53,
+                "velo": 88.3,
+                "di": 9.203192337526914,
+                "desc": "Andruw Monasterio singles on a line drive to left fielder Esteury Ruiz. Blake Perkins scores. Andruw Monasterio to 2nd."
+            },
+            {
+                "pitch": 54,
+                "velo": 89.5,
+                "di": 2.2503221998988323,
+                "desc": ""
+            },
+            {
+                "pitch": 55,
+                "velo": 83.5,
+                "di": 4.313705822028027,
+                "desc": ""
+            },
+            {
+                "pitch": 56,
+                "velo": 87.6,
+                "di": 6.599226715315467,
+                "desc": "Joey Ortiz reaches on a fielding error by center fielder Andy Pages. Andruw Monasterio scores. Joey Ortiz to 2nd."
+            },
+            {
+                "pitch": 57,
+                "velo": 85.1,
+                "di": 9.004653754031338,
+                "desc": ""
+            },
+            {
+                "pitch": 58,
+                "velo": 85.8,
+                "di": 27.48990967653819,
+                "desc": ""
+            },
+            {
+                "pitch": 59,
+                "velo": 86.6,
+                "di": 29.745918718744846,
+                "desc": ""
+            },
+            {
+                "pitch": 60,
+                "velo": 72.1,
+                "di": 32.67329665236092,
+                "desc": ""
+            },
+            {
+                "pitch": 61,
+                "velo": 83.1,
+                "di": 30.546068008751377,
+                "desc": ""
+            },
+            {
+                "pitch": 62,
+                "velo": 86.7,
+                "di": 33.10328421492058,
+                "desc": "Eric Haase grounds out sharply, second baseman Miguel Rojas to first baseman Freddie Freeman."
+            },
+            {
+                "pitch": 63,
+                "velo": 87.3,
+                "di": 33.99091154192321,
+                "desc": ""
+            },
+            {
+                "pitch": 64,
+                "velo": 74.3,
+                "di": 97.35907420496956,
+                "desc": "Jackson Chourio flies out sharply to center fielder Andy Pages.",
+                "alert": true
+            },
+            {
+                "pitch": 65,
+                "velo": 72.2,
+                "di": 97.19127109962112,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 66,
+                "velo": 83.9,
+                "di": 97.19127109962112,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 67,
+                "velo": 89.0,
+                "di": 96.18762519506087,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 68,
+                "velo": 85.1,
+                "di": 94.4442637220976,
+                "desc": "William Contreras hit by pitch."
+            },
+            {
+                "pitch": 69,
+                "velo": 82.9,
+                "di": 97.61106286697635,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 70,
+                "velo": 89.8,
+                "di": 96.93985010418221,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 71,
+                "velo": 85.5,
+                "di": 96.93985010418221,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 72,
+                "velo": 89.7,
+                "di": 95.85428195193633,
+                "desc": "Andrew Vaughn singles on a ground ball to left fielder Esteury Ruiz. William Contreras to 3rd. William Contreras advances to 3rd, on a fielding error by left fielder Esteury Ruiz.",
+                "alert": true
+            }
+        ],
+        "breakdown_baseline": "5.98 ft",
+        "breakdown_fatigued": "5.91 ft"
+    },
+    "Anderson, Tyler (2024-04-14)": {
+        "name": "Anderson, Tyler",
+        "date": "2024-04-14",
+        "peakVelo": "89.1 mph",
+        "peakDI": "97.5",
+        "primary_failure": "Release Extension",
+        "score_before": "LAA 2 - BOS 2",
+        "score_after": "LAA 2 - BOS 2",
+        "data": [
+            {
+                "pitch": 35,
+                "velo": 89.3,
+                "di": 7.859702868621554,
+                "desc": ""
+            },
+            {
+                "pitch": 36,
+                "velo": 83.4,
+                "di": 8.29250375450566,
+                "desc": ""
+            },
+            {
+                "pitch": 37,
+                "velo": 83.8,
+                "di": 8.146764853216325,
+                "desc": ""
+            },
+            {
+                "pitch": 38,
+                "velo": 78.8,
+                "di": 9.09559957194557,
+                "desc": ""
+            },
+            {
+                "pitch": 39,
+                "velo": 88.4,
+                "di": 15.287557992201087,
+                "desc": ""
+            },
+            {
+                "pitch": 40,
+                "velo": 84.7,
+                "di": 17.521108125616536,
+                "desc": "Triston Casas walks. Tyler O'Neill to 2nd."
+            },
+            {
+                "pitch": 41,
+                "velo": 78.9,
+                "di": 24.495344226690193,
+                "desc": ""
+            },
+            {
+                "pitch": 42,
+                "velo": 80.4,
+                "di": 22.72397320239351,
+                "desc": ""
+            },
+            {
+                "pitch": 43,
+                "velo": 90.3,
+                "di": 20.7199455828261,
+                "desc": ""
+            },
+            {
+                "pitch": 44,
+                "velo": 81.0,
+                "di": 20.570496496017014,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 80.0,
+                "di": 7.075144401617322,
+                "desc": "Bobby Dalbec called out on strikes."
+            },
+            {
+                "pitch": 46,
+                "velo": 83.3,
+                "di": 3.6117624966100124,
+                "desc": ""
+            },
+            {
+                "pitch": 47,
+                "velo": 88.5,
+                "di": 4.351816299565584,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 82.6,
+                "di": 2.6108921561547334,
+                "desc": ""
+            },
+            {
+                "pitch": 49,
+                "velo": 81.3,
+                "di": 96.2710550213525,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 50,
+                "velo": 88.1,
+                "di": 96.2710550213525,
+                "desc": "Masataka Yoshida flies out to left fielder Taylor Ward.",
+                "alert": true
+            },
+            {
+                "pitch": 51,
+                "velo": 79.7,
+                "di": 96.2710550213525,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 52,
+                "velo": 79.3,
+                "di": 96.2710550213525,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 53,
+                "velo": 84.8,
+                "di": 97.1276406668688,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 54,
+                "velo": 89.1,
+                "di": 97.54728876734647,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 55,
+                "velo": 80.2,
+                "di": 97.54728876734647,
+                "desc": "Connor Wong lines out to left fielder Taylor Ward.",
+                "alert": true
+            },
+            {
+                "pitch": 56,
+                "velo": 88.0,
+                "di": 97.29538634434455,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 57,
+                "velo": 78.4,
+                "di": 96.3035592926063,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 58,
+                "velo": 78.4,
+                "di": 96.88872574336976,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 59,
+                "velo": 88.7,
+                "di": 6.2169630339443955,
+                "desc": ""
+            },
+            {
+                "pitch": 60,
+                "velo": 85.0,
+                "di": 6.247570194404091,
+                "desc": ""
+            },
+            {
+                "pitch": 61,
+                "velo": 79.6,
+                "di": 5.659513635810569,
+                "desc": "Ceddanne Rafaela grounds out, third baseman Anthony Rendon to first baseman Brandon Drury."
+            },
+            {
+                "pitch": 62,
+                "velo": 83.5,
+                "di": 3.689607906555409,
+                "desc": ""
+            },
+            {
+                "pitch": 63,
+                "velo": 88.7,
+                "di": 5.298934271295224,
+                "desc": "David Hamilton flies out to right fielder Jo Adell."
+            },
+            {
+                "pitch": 64,
+                "velo": 88.1,
+                "di": 14.46903271880089,
+                "desc": ""
+            },
+            {
+                "pitch": 65,
+                "velo": 82.3,
+                "di": 10.664090910710826,
+                "desc": ""
+            },
+            {
+                "pitch": 66,
+                "velo": 84.7,
+                "di": 12.19044655924057,
+                "desc": ""
+            },
+            {
+                "pitch": 67,
+                "velo": 89.5,
+                "di": 6.221969137899848,
+                "desc": ""
+            },
+            {
+                "pitch": 68,
+                "velo": 82.8,
+                "di": 5.949553647860242,
+                "desc": "Jarren Duran walks."
+            },
+            {
+                "pitch": 69,
+                "velo": 87.3,
+                "di": 11.844559631284298,
+                "desc": ""
+            },
+            {
+                "pitch": 70,
+                "velo": 81.2,
+                "di": 13.207904159081977,
+                "desc": ""
+            },
+            {
+                "pitch": 71,
+                "velo": 83.0,
+                "di": 16.12538323434093,
+                "desc": ""
+            },
+            {
+                "pitch": 72,
+                "velo": 78.7,
+                "di": 17.607225484250534,
+                "desc": ""
+            },
+            {
+                "pitch": 73,
+                "velo": 79.2,
+                "di": 11.385005263254769,
+                "desc": ""
+            },
+            {
+                "pitch": 74,
+                "velo": 88.2,
+                "di": 15.741146612115188,
+                "desc": "Pablo Reyes doubles (1) on a fly ball to center fielder Mike Trout. Jarren Duran scores."
+            }
+        ],
+        "breakdown_baseline": "6.26 ft",
+        "breakdown_fatigued": "6.10 ft"
+    },
+    "Cortes, Nestor (2023-08-05)": {
+        "name": "Cortes, Nestor",
+        "date": "2023-08-05",
+        "peakVelo": "92.8 mph",
+        "peakDI": "96.3",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "HOU 1 - NYY 1",
+        "score_after": "HOU 1 - NYY 1",
+        "data": [
+            {
+                "pitch": 16,
+                "velo": 92.3,
+                "di": 78.6556770341643,
+                "desc": ""
+            },
+            {
+                "pitch": 17,
+                "velo": 86.0,
+                "di": 86.7395010865351,
+                "desc": ""
+            },
+            {
+                "pitch": 18,
+                "velo": 87.0,
+                "di": 85.88269803731923,
+                "desc": "Chas McCormick pops out to pitcher Nestor Cortes."
+            },
+            {
+                "pitch": 19,
+                "velo": 87.8,
+                "di": 63.47497949429807,
+                "desc": ""
+            },
+            {
+                "pitch": 20,
+                "velo": 84.7,
+                "di": 52.54780968250803,
+                "desc": "Mauricio Dubon grounds out, shortstop Anthony Volpe to first baseman Jake Bauers."
+            },
+            {
+                "pitch": 21,
+                "velo": 89.0,
+                "di": 53.425234415600656,
+                "desc": ""
+            },
+            {
+                "pitch": 22,
+                "velo": 90.4,
+                "di": 48.42828609290841,
+                "desc": ""
+            },
+            {
+                "pitch": 23,
+                "velo": 86.3,
+                "di": 38.19701853919122,
+                "desc": "Grae Kessinger flies out to left fielder Isiah Kiner-Falefa."
+            },
+            {
+                "pitch": 24,
+                "velo": 91.3,
+                "di": 39.59958292217827,
+                "desc": ""
+            },
+            {
+                "pitch": 25,
+                "velo": 75.4,
+                "di": 36.19190986221204,
+                "desc": ""
+            },
+            {
+                "pitch": 26,
+                "velo": 87.0,
+                "di": 42.30779448095511,
+                "desc": ""
+            },
+            {
+                "pitch": 27,
+                "velo": 92.9,
+                "di": 17.107275613627962,
+                "desc": "Martin Maldonado strikes out swinging."
+            },
+            {
+                "pitch": 28,
+                "velo": 84.4,
+                "di": 20.447937048481364,
+                "desc": ""
+            },
+            {
+                "pitch": 29,
+                "velo": 84.9,
+                "di": 9.839309938119357,
+                "desc": ""
+            },
+            {
+                "pitch": 30,
+                "velo": 94.9,
+                "di": 10.473697510108067,
+                "desc": ""
+            },
+            {
+                "pitch": 31,
+                "velo": 93.8,
+                "di": 6.359890472306631,
+                "desc": ""
+            },
+            {
+                "pitch": 32,
+                "velo": 88.2,
+                "di": 15.333869149804784,
+                "desc": "Jose Altuve homers (8) on a fly ball to left field."
+            },
+            {
+                "pitch": 33,
+                "velo": 93.0,
+                "di": 16.25907923135948,
+                "desc": ""
+            },
+            {
+                "pitch": 34,
+                "velo": 91.9,
+                "di": 20.24572291211662,
+                "desc": "Jeremy Pena grounds out, second baseman Gleyber Torres to first baseman Jake Bauers."
+            },
+            {
+                "pitch": 35,
+                "velo": 75.8,
+                "di": 28.13038129731298,
+                "desc": ""
+            },
+            {
+                "pitch": 36,
+                "velo": 78.4,
+                "di": 24.73086844562411,
+                "desc": ""
+            },
+            {
+                "pitch": 37,
+                "velo": 77.9,
+                "di": 24.448619476771384,
+                "desc": ""
+            },
+            {
+                "pitch": 38,
+                "velo": 91.5,
+                "di": 17.392306785672915,
+                "desc": ""
+            },
+            {
+                "pitch": 39,
+                "velo": 74.1,
+                "di": 47.375684557968995,
+                "desc": ""
+            },
+            {
+                "pitch": 40,
+                "velo": 73.0,
+                "di": 67.63606579044254,
+                "desc": ""
+            },
+            {
+                "pitch": 41,
+                "velo": 78.5,
+                "di": 69.59975251493499,
+                "desc": "Kyle Tucker strikes out swinging."
+            },
+            {
+                "pitch": 42,
+                "velo": 91.7,
+                "di": 69.84295935236001,
+                "desc": ""
+            },
+            {
+                "pitch": 43,
+                "velo": 89.4,
+                "di": 68.87613582809978,
+                "desc": ""
+            },
+            {
+                "pitch": 44,
+                "velo": 88.7,
+                "di": 74.39504258313899,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 82.5,
+                "di": 77.08597499577216,
+                "desc": ""
+            },
+            {
+                "pitch": 46,
+                "velo": 92.8,
+                "di": 74.6680101451419,
+                "desc": ""
+            },
+            {
+                "pitch": 47,
+                "velo": 89.0,
+                "di": 74.20513502436815,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 87.9,
+                "di": 73.9329407004817,
+                "desc": "Alex Bregman called out on strikes."
+            },
+            {
+                "pitch": 49,
+                "velo": 89.1,
+                "di": 95.03584640222421,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 50,
+                "velo": 89.2,
+                "di": 95.70017623223278,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 51,
+                "velo": 92.8,
+                "di": 96.28343454884087,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 52,
+                "velo": 71.1,
+                "di": 95.78338614139876,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 53,
+                "velo": 79.9,
+                "di": 96.19999913992915,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 54,
+                "velo": 93.1,
+                "di": 96.11660135670168,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 55,
+                "velo": 89.1,
+                "di": 95.61700384706062,
+                "desc": "Yordan Alvarez strikes out swinging.",
+                "alert": true
+            }
+        ],
+        "breakdown_baseline": "5.33 ft",
+        "breakdown_fatigued": "5.72 ft"
+    },
+    "Bassitt, Chris (2023-07-31)": {
+        "name": "Bassitt, Chris",
+        "date": "2023-07-31",
+        "peakVelo": "90.6 mph",
+        "peakDI": "96.0",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "BAL 4 - TOR 0",
+        "score_after": "BAL 4 - TOR 0",
+        "data": [
+            {
+                "pitch": 65,
+                "velo": 89.8,
+                "di": 10.125246628208458,
+                "desc": ""
+            },
+            {
+                "pitch": 66,
+                "velo": 90.1,
+                "di": 30.387981113483676,
+                "desc": ""
+            },
+            {
+                "pitch": 67,
+                "velo": 92.1,
+                "di": 60.69926556342905,
+                "desc": ""
+            },
+            {
+                "pitch": 68,
+                "velo": 70.1,
+                "di": 55.65948180526725,
+                "desc": ""
+            },
+            {
+                "pitch": 69,
+                "velo": 71.6,
+                "di": 62.8486539059807,
+                "desc": "Colton Cowser strikes out on a foul tip."
+            },
+            {
+                "pitch": 70,
+                "velo": 80.8,
+                "di": 55.99720184542936,
+                "desc": ""
+            },
+            {
+                "pitch": 71,
+                "velo": 81.1,
+                "di": 44.63259247887869,
+                "desc": ""
+            },
+            {
+                "pitch": 72,
+                "velo": 71.3,
+                "di": 40.06367238644934,
+                "desc": ""
+            },
+            {
+                "pitch": 73,
+                "velo": 71.9,
+                "di": 41.538242794111724,
+                "desc": ""
+            },
+            {
+                "pitch": 74,
+                "velo": 89.8,
+                "di": 84.57924163412842,
+                "desc": "Jorge Mateo strikes out swinging."
+            },
+            {
+                "pitch": 75,
+                "velo": 71.2,
+                "di": 83.54798456625876,
+                "desc": ""
+            },
+            {
+                "pitch": 76,
+                "velo": 83.3,
+                "di": 76.04661339673864,
+                "desc": ""
+            },
+            {
+                "pitch": 77,
+                "velo": 91.2,
+                "di": 95.02355035021439,
+                "desc": "Adley Rutschman grounds out, second baseman Whit Merrifield to first baseman Vladimir Guerrero Jr.",
+                "alert": true
+            },
+            {
+                "pitch": 78,
+                "velo": 90.6,
+                "di": 96.02087839501151,
+                "desc": "Gunnar Henderson grounds out, shortstop Santiago Espinal to first baseman Vladimir Guerrero Jr.",
+                "alert": true
+            },
+            {
+                "pitch": 79,
+                "velo": 90.9,
+                "di": 95.68783573025713,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 80,
+                "velo": 90.5,
+                "di": 93.86680325073125,
+                "desc": ""
+            },
+            {
+                "pitch": 81,
+                "velo": 69.6,
+                "di": 93.94918601665351,
+                "desc": ""
+            },
+            {
+                "pitch": 82,
+                "velo": 91.0,
+                "di": 93.0450161340621,
+                "desc": ""
+            },
+            {
+                "pitch": 83,
+                "velo": 82.9,
+                "di": 89.13975963645466,
+                "desc": "Anthony Santander flies out to left fielder Daulton Varsho."
+            },
+            {
+                "pitch": 84,
+                "velo": 90.6,
+                "di": 89.62180374485838,
+                "desc": ""
+            },
+            {
+                "pitch": 85,
+                "velo": 82.1,
+                "di": 89.12785808856539,
+                "desc": ""
+            },
+            {
+                "pitch": 86,
+                "velo": 68.8,
+                "di": 92.05925715802813,
+                "desc": ""
+            },
+            {
+                "pitch": 87,
+                "velo": 90.4,
+                "di": 86.73259593090798,
+                "desc": "Ryan O'Hearn singles on a ground ball to left fielder Daulton Varsho."
+            },
+            {
+                "pitch": 88,
+                "velo": 90.0,
+                "di": 86.89095985062345,
+                "desc": ""
+            },
+            {
+                "pitch": 89,
+                "velo": 81.9,
+                "di": 87.67312172922091,
+                "desc": "Ryan Mountcastle flies out to right fielder Cavan Biggio."
+            },
+            {
+                "pitch": 90,
+                "velo": 90.4,
+                "di": 87.99169095235864,
+                "desc": ""
+            },
+            {
+                "pitch": 91,
+                "velo": 90.4,
+                "di": 84.51884328225007,
+                "desc": ""
+            },
+            {
+                "pitch": 92,
+                "velo": 90.4,
+                "di": 87.11700676465226,
+                "desc": ""
+            },
+            {
+                "pitch": 93,
+                "velo": 91.1,
+                "di": 93.37328623985506,
+                "desc": ""
+            },
+            {
+                "pitch": 94,
+                "velo": 70.7,
+                "di": 93.61987779189072,
+                "desc": "Adam Frazier grounds out, second baseman Whit Merrifield to pitcher Chris Bassitt."
+            },
+            {
+                "pitch": 95,
+                "velo": 92.3,
+                "di": 90.516131078752,
+                "desc": ""
+            },
+            {
+                "pitch": 96,
+                "velo": 73.2,
+                "di": 82.53995786845367,
+                "desc": ""
+            },
+            {
+                "pitch": 97,
+                "velo": 90.9,
+                "di": 87.65479204699555,
+                "desc": ""
+            },
+            {
+                "pitch": 98,
+                "velo": 71.5,
+                "di": 89.4520765161687,
+                "desc": ""
+            },
+            {
+                "pitch": 99,
+                "velo": 71.0,
+                "di": 90.74939047111424,
+                "desc": ""
+            },
+            {
+                "pitch": 100,
+                "velo": 93.2,
+                "di": 91.47949389818486,
+                "desc": "Austin Hays called out on strikes."
+            },
+            {
+                "pitch": 101,
+                "velo": 70.2,
+                "di": 92.70777119529846,
+                "desc": ""
+            },
+            {
+                "pitch": 102,
+                "velo": 92.8,
+                "di": 90.32639350605429,
+                "desc": ""
+            },
+            {
+                "pitch": 103,
+                "velo": 92.5,
+                "di": 90.24564445954358,
+                "desc": ""
+            },
+            {
+                "pitch": 104,
+                "velo": 93.0,
+                "di": 89.73853136299236,
+                "desc": "Colton Cowser strikes out swinging."
+            }
+        ],
+        "breakdown_baseline": "5.39 ft",
+        "breakdown_fatigued": "5.18 ft"
+    },
+    "Anderson, Tyler (2023-07-01)": {
+        "name": "Anderson, Tyler",
+        "date": "2023-07-01",
+        "peakVelo": "78.6 mph",
+        "peakDI": "95.8",
+        "primary_failure": "Vertical Release (z-axis)",
+        "score_before": "AZ 0 - LAA 0",
+        "score_after": "AZ 0 - LAA 0",
+        "data": [
+            {
+                "pitch": 44,
+                "velo": 80.6,
+                "di": 92.09925098098377,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 85.6,
+                "di": 91.99351504415183,
+                "desc": ""
+            },
+            {
+                "pitch": 46,
+                "velo": 85.4,
+                "di": 91.99351504415183,
+                "desc": "Kyle Lewis walks."
+            },
+            {
+                "pitch": 47,
+                "velo": 84.4,
+                "di": 91.87769531198721,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 85.6,
+                "di": 91.87769531198721,
+                "desc": ""
+            },
+            {
+                "pitch": 49,
+                "velo": 90.3,
+                "di": 91.87769531198721,
+                "desc": ""
+            },
+            {
+                "pitch": 50,
+                "velo": 79.4,
+                "di": 91.87769531198721,
+                "desc": "Lourdes Gurriel Jr. grounds out, second baseman Luis Rengifo to first baseman Hunter Renfroe."
+            },
+            {
+                "pitch": 51,
+                "velo": 90.6,
+                "di": 4.881827543328598,
+                "desc": ""
+            },
+            {
+                "pitch": 52,
+                "velo": 87.6,
+                "di": 6.502000962599368,
+                "desc": "Christian Walker flies out to right fielder Mickey Moniak."
+            },
+            {
+                "pitch": 53,
+                "velo": 81.2,
+                "di": 26.56182784764499,
+                "desc": ""
+            },
+            {
+                "pitch": 54,
+                "velo": 81.0,
+                "di": 25.335005523766768,
+                "desc": "Emmanuel Rivera grounds out, third baseman Anthony Rendon to first baseman Hunter Renfroe."
+            },
+            {
+                "pitch": 55,
+                "velo": 90.0,
+                "di": 7.172146426239863,
+                "desc": ""
+            },
+            {
+                "pitch": 56,
+                "velo": 80.6,
+                "di": 5.613941040434284,
+                "desc": ""
+            },
+            {
+                "pitch": 57,
+                "velo": 89.7,
+                "di": 2.7403953475259044,
+                "desc": ""
+            },
+            {
+                "pitch": 58,
+                "velo": 89.0,
+                "di": 2.4676368231593386,
+                "desc": ""
+            },
+            {
+                "pitch": 59,
+                "velo": 89.6,
+                "di": 5.970389277229245,
+                "desc": "Gabriel Moreno singles on a line drive to right fielder Mickey Moniak."
+            },
+            {
+                "pitch": 60,
+                "velo": 85.2,
+                "di": 10.106751565289201,
+                "desc": "Jake McCarthy grounds out, second baseman Luis Rengifo to first baseman Hunter Renfroe."
+            },
+            {
+                "pitch": 61,
+                "velo": 80.0,
+                "di": 7.772754691617607,
+                "desc": ""
+            },
+            {
+                "pitch": 62,
+                "velo": 80.7,
+                "di": 12.842463976772052,
+                "desc": ""
+            },
+            {
+                "pitch": 63,
+                "velo": 89.9,
+                "di": 15.461953949787826,
+                "desc": "Nick Ahmed pops out to first baseman Hunter Renfroe."
+            },
+            {
+                "pitch": 64,
+                "velo": 91.0,
+                "di": 17.274208250236,
+                "desc": ""
+            },
+            {
+                "pitch": 65,
+                "velo": 85.5,
+                "di": 12.511550839119607,
+                "desc": ""
+            },
+            {
+                "pitch": 66,
+                "velo": 85.9,
+                "di": 14.34557318686474,
+                "desc": ""
+            },
+            {
+                "pitch": 67,
+                "velo": 82.8,
+                "di": 85.41335730782735,
+                "desc": ""
+            },
+            {
+                "pitch": 68,
+                "velo": 81.5,
+                "di": 85.98042786451502,
+                "desc": ""
+            },
+            {
+                "pitch": 69,
+                "velo": 84.4,
+                "di": 84.14304410242592,
+                "desc": ""
+            },
+            {
+                "pitch": 70,
+                "velo": 85.2,
+                "di": 84.92458750982429,
+                "desc": ""
+            },
+            {
+                "pitch": 71,
+                "velo": 87.8,
+                "di": 84.22103990412207,
+                "desc": "Dominic Fletcher walks."
+            },
+            {
+                "pitch": 72,
+                "velo": 84.7,
+                "di": 84.02628488957193,
+                "desc": "Ketel Marte singles on a line drive to left fielder Taylor Ward. Dominic Fletcher to 2nd."
+            },
+            {
+                "pitch": 73,
+                "velo": 78.9,
+                "di": 83.87050407105501,
+                "desc": "Kyle Lewis singles on a line drive to center fielder Mike Trout. Dominic Fletcher to 3rd. Ketel Marte to 2nd."
+            },
+            {
+                "pitch": 74,
+                "velo": 85.4,
+                "di": 82.62930377656677,
+                "desc": ""
+            },
+            {
+                "pitch": 75,
+                "velo": 91.2,
+                "di": 82.62930377656677,
+                "desc": ""
+            },
+            {
+                "pitch": 76,
+                "velo": 91.5,
+                "di": 81.93505502903263,
+                "desc": ""
+            },
+            {
+                "pitch": 77,
+                "velo": 79.8,
+                "di": 8.891156992860772,
+                "desc": ""
+            },
+            {
+                "pitch": 78,
+                "velo": 80.9,
+                "di": 8.009678107976598,
+                "desc": ""
+            },
+            {
+                "pitch": 79,
+                "velo": 82.7,
+                "di": 78.2739040035815,
+                "desc": "Lourdes Gurriel Jr. strikes out swinging."
+            },
+            {
+                "pitch": 80,
+                "velo": 93.4,
+                "di": 75.93289164743949,
+                "desc": ""
+            },
+            {
+                "pitch": 81,
+                "velo": 92.3,
+                "di": 75.93289164743949,
+                "desc": ""
+            },
+            {
+                "pitch": 82,
+                "velo": 93.4,
+                "di": 74.1026639791507,
+                "desc": ""
+            },
+            {
+                "pitch": 83,
+                "velo": 82.0,
+                "di": 71.86906384430931,
+                "desc": "Christian Walker strikes out swinging."
+            }
+        ],
+        "breakdown_baseline": "6.17 ft",
+        "breakdown_fatigued": "6.69 ft"
+    },
+    "Weissert, Greg (2025-09-28)": {
+        "name": "Weissert, Greg",
+        "date": "2025-09-28",
+        "peakVelo": "94.1 mph",
+        "peakDI": "95.5",
+        "primary_failure": "Horizontal Release (x-axis)",
+        "score_before": "DET 3 - BOS 4",
+        "score_after": "DET 3 - BOS 4",
+        "data": [
+            {
+                "pitch": 1,
+                "velo": 94.1,
+                "di": 95.52153959451807,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 2,
+                "velo": 94.3,
+                "di": 93.11743996955049,
+                "desc": ""
+            },
+            {
+                "pitch": 3,
+                "velo": 94.9,
+                "di": 93.52803370739456,
+                "desc": ""
+            },
+            {
+                "pitch": 4,
+                "velo": 95.5,
+                "di": 92.70777119529846,
+                "desc": ""
+            },
+            {
+                "pitch": 5,
+                "velo": 95.0,
+                "di": 91.57766638212023,
+                "desc": ""
+            },
+            {
+                "pitch": 6,
+                "velo": 95.3,
+                "di": 91.2338756783844,
+                "desc": ""
+            },
+            {
+                "pitch": 7,
+                "velo": 95.2,
+                "di": 91.2338756783844,
+                "desc": "Andy Ib\u00e1\u00f1ez singles on a ground ball to shortstop Nick Sogard. Trey Sweeney to 2nd."
+            },
+            {
+                "pitch": 8,
+                "velo": 85.3,
+                "di": 11.338398141235487,
+                "desc": ""
+            },
+            {
+                "pitch": 9,
+                "velo": 84.8,
+                "di": 7.919912552641861,
+                "desc": ""
+            },
+            {
+                "pitch": 10,
+                "velo": 95.4,
+                "di": 9.35311461268806,
+                "desc": ""
+            },
+            {
+                "pitch": 11,
+                "velo": 95.1,
+                "di": 14.826483774622702,
+                "desc": "Jake Rogers called out on strikes."
+            },
+            {
+                "pitch": 12,
+                "velo": 95.7,
+                "di": 16.43448203702073,
+                "desc": "Parker Meadows flies out to left fielder Jarren Duran."
+            }
+        ],
+        "breakdown_baseline": "-2.16 ft",
+        "breakdown_fatigued": "-2.27 ft"
+    },
+    "Uceta, Edwin (2023-04-22)": {
+        "name": "Uceta, Edwin",
+        "date": "2023-04-22",
+        "peakVelo": "89.4 mph",
+        "peakDI": "95.5",
+        "primary_failure": "Release Extension",
+        "score_before": "NYM 3 - SF 7",
+        "score_after": "NYM 3 - SF 7",
+        "data": [
+            {
+                "pitch": 3,
+                "velo": 95.3,
+                "di": 44.79821470345307,
+                "desc": ""
+            },
+            {
+                "pitch": 4,
+                "velo": 88.4,
+                "di": 28.96598361946279,
+                "desc": ""
+            },
+            {
+                "pitch": 5,
+                "velo": 87.2,
+                "di": 70.69243744473799,
+                "desc": ""
+            },
+            {
+                "pitch": 6,
+                "velo": 89.9,
+                "di": 71.1394440648486,
+                "desc": ""
+            },
+            {
+                "pitch": 7,
+                "velo": 94.5,
+                "di": 55.80944689311987,
+                "desc": ""
+            },
+            {
+                "pitch": 8,
+                "velo": 87.2,
+                "di": 75.47596411054194,
+                "desc": "Darin Ruf grounds into a force out, shortstop Francisco Lindor to second baseman Jeff McNeil. LaMonte Wade Jr. out at 2nd."
+            },
+            {
+                "pitch": 9,
+                "velo": 92.3,
+                "di": 75.32789318726718,
+                "desc": "Michael Conforto flies out to left fielder Mark Canha."
+            },
+            {
+                "pitch": 10,
+                "velo": 93.5,
+                "di": 76.1325260069621,
+                "desc": ""
+            },
+            {
+                "pitch": 11,
+                "velo": 81.9,
+                "di": 76.65390373031669,
+                "desc": ""
+            },
+            {
+                "pitch": 12,
+                "velo": 87.9,
+                "di": 77.0806191254773,
+                "desc": ""
+            },
+            {
+                "pitch": 13,
+                "velo": 92.3,
+                "di": 77.31789803009123,
+                "desc": ""
+            },
+            {
+                "pitch": 14,
+                "velo": 95.2,
+                "di": 79.23961358693636,
+                "desc": "Wilmer Flores pops out to first baseman Pete Alonso."
+            },
+            {
+                "pitch": 15,
+                "velo": 94.2,
+                "di": 78.16661119007018,
+                "desc": ""
+            },
+            {
+                "pitch": 16,
+                "velo": 86.9,
+                "di": 76.78058865448607,
+                "desc": ""
+            },
+            {
+                "pitch": 17,
+                "velo": 92.4,
+                "di": 80.36030570407475,
+                "desc": ""
+            },
+            {
+                "pitch": 18,
+                "velo": 92.6,
+                "di": 76.32358518478024,
+                "desc": ""
+            },
+            {
+                "pitch": 19,
+                "velo": 92.3,
+                "di": 80.0363264124132,
+                "desc": "David Villar walks."
+            },
+            {
+                "pitch": 20,
+                "velo": 92.8,
+                "di": 74.44750430986356,
+                "desc": ""
+            },
+            {
+                "pitch": 21,
+                "velo": 87.1,
+                "di": 28.875700276341917,
+                "desc": ""
+            },
+            {
+                "pitch": 22,
+                "velo": 85.9,
+                "di": 82.30332238158844,
+                "desc": ""
+            },
+            {
+                "pitch": 23,
+                "velo": 87.4,
+                "di": 82.30332238158844,
+                "desc": ""
+            },
+            {
+                "pitch": 24,
+                "velo": 78.6,
+                "di": 77.68968039002984,
+                "desc": ""
+            },
+            {
+                "pitch": 25,
+                "velo": 87.1,
+                "di": 77.06341202748656,
+                "desc": ""
+            },
+            {
+                "pitch": 26,
+                "velo": 88.2,
+                "di": 75.7465214140414,
+                "desc": ""
+            },
+            {
+                "pitch": 27,
+                "velo": 90.1,
+                "di": 70.93513937648949,
+                "desc": ""
+            },
+            {
+                "pitch": 28,
+                "velo": 86.4,
+                "di": 77.00648135815958,
+                "desc": ""
+            },
+            {
+                "pitch": 29,
+                "velo": 95.0,
+                "di": 78.01682647243105,
+                "desc": ""
+            },
+            {
+                "pitch": 30,
+                "velo": 94.5,
+                "di": 77.79133426364119,
+                "desc": "Brandon Crawford called out on strikes."
+            },
+            {
+                "pitch": 31,
+                "velo": 94.0,
+                "di": 76.35699261540732,
+                "desc": ""
+            },
+            {
+                "pitch": 32,
+                "velo": 88.3,
+                "di": 67.72772372864601,
+                "desc": ""
+            },
+            {
+                "pitch": 33,
+                "velo": 94.0,
+                "di": 94.77049842679709,
+                "desc": ""
+            },
+            {
+                "pitch": 34,
+                "velo": 88.1,
+                "di": 94.43970970138558,
+                "desc": ""
+            },
+            {
+                "pitch": 35,
+                "velo": 88.9,
+                "di": 95.10188450993137,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 36,
+                "velo": 89.4,
+                "di": 95.51695879173097,
+                "desc": "",
+                "alert": true
+            },
+            {
+                "pitch": 37,
+                "velo": 94.6,
+                "di": 95.51695879173097,
+                "desc": "Joey Bart hit by pitch.",
+                "alert": true
+            },
+            {
+                "pitch": 38,
+                "velo": 86.0,
+                "di": 87.33883648345018,
+                "desc": "Brett Wisely grounds into a force out, first baseman Pete Alonso to shortstop Francisco Lindor. Joey Bart out at 2nd. Brett Wisely to 1st."
+            },
+            {
+                "pitch": 39,
+                "velo": 92.1,
+                "di": 86.94218543778184,
+                "desc": ""
+            },
+            {
+                "pitch": 40,
+                "velo": 87.7,
+                "di": 87.56545985434092,
+                "desc": ""
+            },
+            {
+                "pitch": 41,
+                "velo": 93.8,
+                "di": 74.09542827963342,
+                "desc": ""
+            },
+            {
+                "pitch": 42,
+                "velo": 92.3,
+                "di": 93.13467571574073,
+                "desc": "LaMonte Wade Jr. strikes out swinging."
+            }
+        ],
+        "breakdown_baseline": "6.46 ft",
+        "breakdown_fatigued": "6.30 ft"
+    },
+    "Hill, Rich (2023-05-05)": {
+        "name": "Hill, Rich",
+        "date": "2023-05-05",
+        "peakVelo": "62.7 mph",
+        "peakDI": "95.4",
+        "primary_failure": "Posture (Arm Angle)",
+        "score_before": "TOR 1 - PIT 0",
+        "score_after": "TOR 1 - PIT 0",
+        "data": [
+            {
+                "pitch": 41,
+                "velo": 71.2,
+                "di": 85.19842656347465,
+                "desc": ""
+            },
+            {
+                "pitch": 42,
+                "velo": 70.6,
+                "di": 85.04868296643345,
+                "desc": ""
+            },
+            {
+                "pitch": 43,
+                "velo": 71.5,
+                "di": 84.97031393427135,
+                "desc": "Daulton Varsho doubles (6) on a line drive to right fielder Miguel Andujar. Whit Merrifield scores."
+            },
+            {
+                "pitch": 44,
+                "velo": 88.7,
+                "di": 85.08594919194137,
+                "desc": ""
+            },
+            {
+                "pitch": 45,
+                "velo": 71.4,
+                "di": 23.31103057185524,
+                "desc": ""
+            },
+            {
+                "pitch": 46,
+                "velo": 71.9,
+                "di": 23.79457759602316,
+                "desc": ""
+            },
+            {
+                "pitch": 47,
+                "velo": 87.8,
+                "di": 16.074661457142767,
+                "desc": ""
+            },
+            {
+                "pitch": 48,
+                "velo": 72.6,
+                "di": 66.48409488309746,
+                "desc": ""
+            },
+            {
+                "pitch": 49,
+                "velo": 72.1,
+                "di": 67.86418199568799,
+                "desc": "Danny Jansen flies out to left fielder Bryan Reynolds."
+            },
+            {
+                "pitch": 50,
+                "velo": 70.9,
+                "di": 68.90486051014533,
+                "desc": ""
+            },
+            {
+                "pitch": 51,
+                "velo": 86.1,
+                "di": 54.43987778827339,
+                "desc": ""
+            },
+            {
+                "pitch": 52,
+                "velo": 86.0,
+                "di": 61.38786667924346,
+                "desc": ""
+            },
+            {
+                "pitch": 53,
+                "velo": 70.5,
+                "di": 59.936649614294325,
+                "desc": ""
+            },
+            {
+                "pitch": 54,
+                "velo": 86.7,
+                "di": 63.57497042584278,
+                "desc": "Santiago Espinal walks."
+            },
+            {
+                "pitch": 55,
+                "velo": 82.1,
+                "di": 65.82488435710142,
+                "desc": ""
+            },
+            {
+                "pitch": 56,
+                "velo": 68.1,
+                "di": 64.28108446137036,
+                "desc": ""
+            },
+            {
+                "pitch": 57,
+                "velo": 87.3,
+                "di": 63.86378628100259,
+                "desc": ""
+            },
+            {
+                "pitch": 58,
+                "velo": 70.4,
+                "di": 29.396697603773674,
+                "desc": "George Springer homers (4) on a fly ball to center field. Santiago Espinal scores."
+            },
+            {
+                "pitch": 59,
+                "velo": 73.1,
+                "di": 25.114847005362932,
+                "desc": "Bo Bichette lines out to second baseman Ji Hwan Bae."
+            },
+            {
+                "pitch": 60,
+                "velo": 89.4,
+                "di": 12.197618554420572,
+                "desc": ""
+            },
+            {
+                "pitch": 61,
+                "velo": 83.2,
+                "di": 6.528848328009076,
+                "desc": ""
+            },
+            {
+                "pitch": 62,
+                "velo": 89.1,
+                "di": 5.306699570957292,
+                "desc": "Vladimir Guerrero Jr. called out on strikes."
+            },
+            {
+                "pitch": 63,
+                "velo": 84.0,
+                "di": 4.258587634858259,
+                "desc": ""
+            },
+            {
+                "pitch": 64,
+                "velo": 88.5,
+                "di": 4.614505636393318,
+                "desc": ""
+            },
+            {
+                "pitch": 65,
+                "velo": 88.3,
+                "di": 3.450548755123293,
+                "desc": ""
+            },
+            {
+                "pitch": 66,
+                "velo": 87.6,
+                "di": 85.92176245924587,
+                "desc": "Matt Chapman doubles (16) on a sharp fly ball to center fielder Jack Suwinski. Matt Chapman out at 3rd on the throw, center fielder Jack Suwinski to shortstop Tucupita Marcano to third baseman Rodolfo Castro."
+            },
+            {
+                "pitch": 67,
+                "velo": 70.8,
+                "di": 85.92176245924587,
+                "desc": ""
+            },
+            {
+                "pitch": 68,
+                "velo": 81.6,
+                "di": 86.46237440218941,
+                "desc": ""
+            },
+            {
+                "pitch": 69,
+                "velo": 84.5,
+                "di": 88.06655041738448,
+                "desc": ""
+            },
+            {
+                "pitch": 70,
+                "velo": 72.1,
+                "di": 88.88369954088371,
+                "desc": "Alejandro Kirk called out on strikes."
+            },
+            {
+                "pitch": 71,
+                "velo": 82.9,
+                "di": 88.78699380109906,
+                "desc": ""
+            },
+            {
+                "pitch": 72,
+                "velo": 80.9,
+                "di": 88.77218738470192,
+                "desc": "Whit Merrifield singles on a line drive to center fielder Jack Suwinski."
+            },
+            {
+                "pitch": 73,
+                "velo": 70.8,
+                "di": 88.54693755271019,
+                "desc": ""
+            },
+            {
+                "pitch": 74,
+                "velo": 86.8,
+                "di": 88.38708042415071,
+                "desc": ""
+            },
+            {
+                "pitch": 75,
+                "velo": 84.9,
+                "di": 87.51043931777293,
+                "desc": ""
+            },
+            {
+                "pitch": 76,
+                "velo": 68.8,
+                "di": 73.85830672144503,
+                "desc": ""
+            },
+            {
+                "pitch": 77,
+                "velo": 88.6,
+                "di": 75.48270332890401,
+                "desc": ""
+            },
+            {
+                "pitch": 78,
+                "velo": 87.6,
+                "di": 69.12870295440094,
+                "desc": ""
+            },
+            {
+                "pitch": 79,
+                "velo": 68.0,
+                "di": 68.89182236194917,
+                "desc": ""
+            },
+            {
+                "pitch": 80,
+                "velo": 72.6,
+                "di": 7.365104063232607,
+                "desc": "Daulton Varsho walks."
+            }
+        ],
+        "breakdown_baseline": "5.24 ft",
+        "breakdown_fatigued": "3.89 ft"
+    }
+}
