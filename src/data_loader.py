@@ -42,8 +42,7 @@ class StatcastDataLoader:
             # Enable pybaseball's internal caching to speed up subsequent identical requests
             pybaseball.cache.enable() 
             
-            # Baseball Savant will abort the connection if we ask for 6 months of data at once 
-            # due to thread limits. We mitigate this by chunking the request week-by-week.
+            # Fetch data in weekly chunks to avoid rate limiting
             start = pd.to_datetime(self.start_date)
             end = pd.to_datetime(self.end_date)
             
@@ -64,7 +63,7 @@ class StatcastDataLoader:
                     print(f"  -> Warning: Failed to fetch {c_start} to {c_end}: {e}")
                 
                 current = next_date + pd.Timedelta(days=1)
-                time.sleep(1) # Be nice to the Savant servers to avoid rate limiting
+                time.sleep(1) # to avoid rate limit issues
                 
             if not dfs:
                 raise ValueError("Failed to fetch any data. Please check your connection and dates.")
@@ -76,14 +75,14 @@ class StatcastDataLoader:
             print(f"Saving fetched data to {self.cache_filepath} for future use...")
             df.to_parquet(self.cache_filepath, engine='fastparquet')
         
-        # Clean column names (Statcast CSVs sometimes have trailing spaces and casing differences)
+        # Clean column names
         df.columns = df.columns.str.strip().str.lower()
         
         # pybaseball does not return 'home_score_diff' natively, so we engineer it here
         if 'home_score_diff' not in df.columns and 'home_score' in df.columns and 'away_score' in df.columns:
             df['home_score_diff'] = df['home_score'] - df['away_score']
             
-        # Keep only required columns that actually exist in the CSV
+        # Keep only required columns
         available_cols = [col for col in self.required_columns if col in df.columns]
         
         # Print a warning if any required columns are missing
@@ -175,9 +174,8 @@ class StatcastDataLoader:
         print("Step 1 Complete: Data loaded, cleaned, engineered, and imputed.")
         return self.processed_data
 
-# Example Execution block (can be commented out in production)
 if __name__ == "__main__":
-    # Fetching data for a sample window (e.g., the 2024 regular season)
+    # Fetching data for a sample window
     loader = StatcastDataLoader(
         start_date="2023-03-28", 
         end_date="2026-09-29", 

@@ -30,10 +30,10 @@ def append_mechanical_shifts():
         game_df = df[(df['player_name'] == pitcher_name) & (df['game_date'] == game_date)].sort_index()
         
         if not game_df.empty and col_name in game_df.columns:
-            # 1. Calculate Baseline: Average of the first 15 pitches of the outing
+            # Calculate Baseline: Average of the first 15 pitches of the outing
             baseline_val = game_df.head(15)[col_name].mean()
             
-            # 2. Calculate Fatigued: The exact value at the peak DI anomaly
+            # Calculate Fatigued: The exact value at the peak DI anomaly
             max_di_idx = game_df['degradation_index'].idxmax()
             fatigued_val = game_df.loc[max_di_idx, col_name]
             

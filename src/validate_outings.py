@@ -16,13 +16,13 @@ def investigate_outing(df, pitcher_name, game_date):
     # Sort chronologically
     outing = outing.sort_values(by=['at_bat_number', 'pitch_number'])
     
-    # Select storytelling columns
+    # Select columns
     cols_to_show = [
         'inning', 'pitch_type', 'release_speed', 
         'degradation_index', 'events', 'des'
     ]
     
-    # Ensure columns exist to avoid KeyErrors
+    # Ensure columns exist
     available_cols = [c for c in cols_to_show if c in outing.columns]
     
     # Print the timeline, highlighting severe pitches

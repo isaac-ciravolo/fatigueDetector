@@ -11,8 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- CUSTOM CSS FOR DUGOUT PRODUCT FEEL ---
-# --- CUSTOM CSS FOR DUGOUT PRODUCT FEEL ---
+# --- CUSTOM CSS ---
 st.markdown("""
     <style>
     #MainMenu {visibility: hidden;}
@@ -199,7 +198,7 @@ if app_mode == "Live Dugout Monitor":
         with st.container(height=300):
             for _, row in df.iloc[::-1].iterrows():
                 
-                # Explicitly check for True to prevent NaN from evaluating as truthy
+                # Explicitly check for True to prevent NaN from evaluating as truth
                 is_alert = (row.get('alert') == True) or (row.get('di', 0) > 95.0)
                 desc = row.get('desc', 'Pitch executed')
                 
@@ -228,7 +227,6 @@ elif app_mode == "Pipeline Reliability":
         However, max-effort pitching on tired muscles causes structural release variance, leading to hanging sliders, missed spots, and giving up runs while still throwing hard.
         """)
         
-        # Fixed formatting: Added height: 100% to ensure visual alignment
         st.markdown(f"""
         <div class="metric-card" style="margin-top: 20px; text-align: left; padding: 20px; height: 100%; border: 1px solid #334155;">
             <div style="color: #94a3b8; font-size: 14px; text-transform: uppercase; font-weight: bold;">Recall (Breakdowns Caught)</div>
@@ -247,7 +245,6 @@ elif app_mode == "Pipeline Reliability":
         The Isolation Forest mathematically identifies when the pitcher loses the ability to repeat their mechanics. It filters out the noise to ensure the bullpen is only engaged when true failure occurs.
         """)
         
-        # Fixed formatting: Matched base dimensions and layout to left column
         st.markdown(f"""
         <div class="metric-card" style="margin-top: 20px; text-align: left; padding: 20px; height: 100%; border: 1px solid #3b82f6;">
             <div style="color: #94a3b8; font-size: 14px; text-transform: uppercase; font-weight: bold;">Recall (Breakdowns Caught)</div>

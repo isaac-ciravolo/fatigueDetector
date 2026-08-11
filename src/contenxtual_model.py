@@ -31,7 +31,7 @@ class ContextualFilter:
         """One-hot encodes categorical variables (like pitch_type) for XGBoost."""
         print("Preparing features for XGBoost...")
         
-        # --- SELF-HEALING: Generate context features on the fly if missing ---
+        # Generate context features on the fly if missing
         if 'is_lhb' not in df.columns and 'stand' in df.columns:
             df['is_lhb'] = (df['stand'] == 'L').astype(int)
         elif 'is_lhb' not in df.columns:
@@ -51,7 +51,7 @@ class ContextualFilter:
                 df['score_diff_abs'] = df['home_score_diff'].abs()
             else:
                 df['score_diff_abs'] = 0 # Fallback
-        # ---------------------------------------------------------------------
+
         
         # We must one-hot encode pitch_type because it is categorical, not ordinal
         if 'pitch_type' in df.columns:
@@ -109,7 +109,7 @@ class ContextualFilter:
                 
             pitcher_data = df.loc[group_indices]
             
-            # Drop rows where target variables are missing so sklearn doesn't crash
+            # Drop rows where target variables are missing
             valid_idx = pitcher_data[available_targets].dropna().index
             train_data = pitcher_data.loc[valid_idx]
             
@@ -160,7 +160,7 @@ if __name__ == "__main__":
     if not os.path.exists(zscored_path):
         print(f"Processed data not found at {zscored_path}. Please run baseline_scaler.py first.")
     else:
-        # Load the Z-scored data from Step 2
+        # Load the Z-scored data
         print("Loading Z-scored dataset...")
         df = pd.read_parquet(zscored_path)
         
@@ -168,7 +168,7 @@ if __name__ == "__main__":
         modeler = ContextualFilter()
         residual_df = modeler.execute_pipeline(df)
         
-        # Save the dataset with residuals for the Anomaly Detector (Step 4/5)
+        # Save the dataset with residuals for the Anomaly Detector
         save_path = "data/processed/model_residuals.parquet"
         residual_df.to_parquet(save_path, engine='fastparquet')
         

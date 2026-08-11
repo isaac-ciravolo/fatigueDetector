@@ -26,7 +26,7 @@ class FatigueAnomalyDetector:
         """
         print(f"Calculating {self.rolling_window}-pitch rolling volatility per outing...")
         
-        # MUST sort chronologically to simulate how the game actually unfolded
+        # sort chronologically to simulate how the game actually unfolded
         df = df.sort_values(by=['pitcher', 'game_pk', 'at_bat_number', 'pitch_number'])
         
         target_res_cols = [c for c in df.columns if c.startswith('residual_')]
@@ -95,15 +95,13 @@ class FatigueAnomalyDetector:
         print("Pipeline Complete! Degradation Indices successfully generated.")
         return scored_df
 
-
-# Example Execution block
 if __name__ == "__main__":
     residuals_path = "data/processed/model_residuals.parquet"
     
     if not os.path.exists(residuals_path):
         print(f"Processed data not found at {residuals_path}. Please run contextual_model.py first.")
     else:
-        # Load the residuals from Step 3
+        # Load the residuals
         df = pd.read_parquet(residuals_path)
         
         detector = FatigueAnomalyDetector(rolling_window=10, contamination=0.05)

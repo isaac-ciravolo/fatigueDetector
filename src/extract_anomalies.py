@@ -16,7 +16,7 @@ def extract_top_anomalies(parquet_path, output_json_path, top_n=10):
     else:
         df['game_date_str'] = df['game_date'].astype(str)
 
-    # Dictionary to translate dataset columns to human-readable UI labels
+    # Dictionary to translate dataset columns to UI labels
     failure_mapping = {
         'rolling_sd_release_pos_x_zscore': 'Horizontal Release (x-axis)',
         'rolling_sd_release_pos_z_zscore': 'Vertical Release (z-axis)',
@@ -50,14 +50,14 @@ def extract_top_anomalies(parquet_path, output_json_path, top_n=10):
         game_df = df[(df['player_name'] == pitcher_name) & (df['game_pk'] == game_pk)].copy()
         game_df = game_df.sort_values(by=['at_bat_number', 'pitch_number'])
         
-        # --- FIX: Create a continuous pitch count for the entire outing ---
+        #Create a continuous pitch count for the entire outing 
         game_df['cumulative_pitch'] = range(1, len(game_df) + 1)
         
         # Find the exact pitch where the anomaly peaked
         peak_pitch = game_df.loc[game_df['degradation_index'].idxmax()]
         peak_velo = peak_pitch.get('release_speed', 0.0)
         
-        # --- DETERMINE PRIMARY FAILURE ---
+        #  DETERMINE PRIMARY FAILURE 
         # Find which specific metric had the highest rolling variance at the time of the spike
         primary_failure_label = "Unknown"
         if rolling_cols:
@@ -94,8 +94,8 @@ def extract_top_anomalies(parquet_path, output_json_path, top_n=10):
             "date": game_date,
             "peakVelo": f"{peak_velo:.1f} mph" if pd.notna(peak_velo) else "N/A",
             "peakDI": f"{peak_di:.1f}",
-            "primary_failure": primary_failure_label,  # Automatically generated label
-            "score_before": "TBD", # Best retrieved manually via MLB API
+            "primary_failure": primary_failure_label,  
+            "score_before": "TBD", # updated in fix_scores.py
             "score_after": "TBD",
             "data": pitch_sequence
         }

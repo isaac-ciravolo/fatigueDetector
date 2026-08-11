@@ -27,7 +27,7 @@ class BaselineScaler:
         """
         print("Calculating intra-season baselines for all pitchers...")
         
-        # 1. Calculate Season-Specific Baselines (Grouped by Year)
+        # Calculate Season-Specific Baselines (Grouped by Year)
         season_stats = df.groupby(['pitcher', 'pitch_type', 'game_year'])[self.target_cols].agg(
             ['mean', 'std', 'count']
         ).reset_index()
@@ -36,7 +36,7 @@ class BaselineScaler:
         season_stats.columns = ['pitcher', 'pitch_type', 'game_year'] + \
             [f"{col}_{stat}" for col in self.target_cols for stat in ['mean', 'std', 'count']]
         
-        # 2. Calculate Multi-Year Fallback Baselines (Ignoring Year)
+        # Calculate Multi-Year Fallback Baselines (Ignoring Year)
         # Used for early-season games where a pitcher hasn't thrown a pitch enough times yet
         career_stats = df.groupby(['pitcher', 'pitch_type'])[self.target_cols].agg(
             ['mean', 'std']
@@ -45,7 +45,7 @@ class BaselineScaler:
         career_stats.columns = ['pitcher', 'pitch_type'] + \
             [f"{col}_career_{stat}" for col in self.target_cols for stat in ['mean', 'std']]
         
-        # 3. Merge baselines together
+        # Merge baselines together
         baselines = pd.merge(season_stats, career_stats, on=['pitcher', 'pitch_type'], how='left')
         
         return baselines
@@ -95,8 +95,6 @@ class BaselineScaler:
         print("Step 2 Complete: Biomechanical metrics successfully standardized into Z-scores.")
         return standardized_df
 
-
-# Example Execution block
 if __name__ == "__main__":
     import os
     
@@ -108,11 +106,11 @@ if __name__ == "__main__":
         # Instantly load the cleaned and imputed data
         raw_df = pd.read_parquet(path)
         
-        # Run Step 2 to standardize it
+        # Run Scalar to standardize it
         scaler = BaselineScaler()
         scaled_df = scaler.execute_pipeline(raw_df)
         
-        # Save the Z-scored data for Step 3
+        # Save the Z-scored data for
         scaled_df.to_parquet("data/processed/zscored_statcast.parquet", engine='fastparquet')
         
         # Preview the new Z-score columns
