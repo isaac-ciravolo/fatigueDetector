@@ -1,0 +1,6 @@
+# Local generated data
+/data/
+
+# Python bytecode
+__pycache__/
+*.pyc
