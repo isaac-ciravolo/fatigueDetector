@@ -10,6 +10,8 @@ Because supervised machine learning models fail in this domain due to noisy, bia
 
 By prioritizing specificity, this pipeline reduces the false alarm rate for pitcher fatigue to a surgical 14.0% (a 66% reduction compared to traditional velocity tracking), preserving bullpen arms while optimizing run prevention.
 
+Read more on [Medium](https://medium.com/@isaac.ciravolo/the-degradation-index-predicting-pitcher-fatigue-using-machine-learning-a72ee215217e?sharedUserId=isaac.ciravolo) 
+
 ## Machine Learning Architecture
 
 The pipeline consists of a two-phase machine learning approach:
@@ -45,3 +47,5 @@ The model was evaluated against late-inning, sustained workloads (innings 4+, mi
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/degradation-index.git](https://github.com/yourusername/degradation-index.git)
+
+
